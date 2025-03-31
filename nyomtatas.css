@@ -43,3 +43,14 @@ a {
   visibility:hidden;
 }
 
+#magassag{
+  margin-top: 0px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+#szelesseg{
+  margin-top: 0px;
+  text-align: center;
+  margin-bottom: 15px;
+}
